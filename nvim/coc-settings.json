@@ -1,0 +1,10 @@
+{
+    "rust-analyzer": {
+        "trace": {
+            "server": "verbose"
+        }
+    },
+    "eslint": {
+      "fileTypes": ["typescript", "typescriptreact"]
+    }
+}

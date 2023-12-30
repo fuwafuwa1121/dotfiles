@@ -1,0 +1,106 @@
+#プラグインマネージャー
+[[plugins]]
+repo = 'Shougo/dein.vim'
+
+#自動補完
+[[plugins]]
+repo = 'Shougo/deoplete.vim'
+
+#VSCode化
+[[plugins]]
+repo = 'neoclide/coc.nvim'
+merge = 0
+rev = 'release'
+
+#カラースキーム
+[[plugins]]
+repo = 'tomasr/molokai'
+
+#ファイラー
+[[plugins]]
+repo = 'lambdalisue/fern.vim'
+
+[[plugins]]
+repo = 'yuki-yano/fern-preview.vim'
+
+[[plugins]]
+repo = 'preservim/nerdtree'
+
+[[plugins]]
+repo = 'ryanoasis/vim-devicons'
+
+[[plugins]]
+repo = 'lambdalisue/nerdfont.vim'
+
+[[plugins]]
+repo = 'lambdalisue/fern-renderer-nerdfont.vim'
+
+[[plugins]]
+repo = 'lambdalisue/glyph-palette.vim'
+
+#ステータスライン
+[[plugins]]
+repo = 'vim-airline/vim-airline'
+
+[[plugins]]
+repo = 'vim-airline/vim-airline-themes'
+
+#help日本語化
+[[plugins]]
+repo = 'vim-jp/vimdoc-ja'
+
+#git関係
+[[plugins]]
+repo = 'tpope/vim-fugitive'
+
+[[plugins]]
+repo = 'lambdalisue/fern-git-status.vim'
+
+#括弧の補完
+[[plugins]]
+repo = 'cohama/lexima.vim'
+
+#bison/flexの補完
+[[plugins]]
+repo = 'justinmk/vim-syntax-extra'
+
+#多言語対応のハイライター
+[[plugins]]
+repo = 'sheerun/vim-polyglot'
+
+#コードチェッカー
+[[plugins]]
+repo = 'dense-analysis/ale'
+
+#prettier
+[[plugins]]
+repo = 'prettier/vim-prettier'
+build = 'npm install'
+
+#インデント可視化
+repo = 'Yggdroot/indentline'
+
+# デバッガー
+repo = 'puremourning/vimspector'
+on_ft = ['typescript']
+
+# svelte
+[[plugins]]
+repo = 'evenleck/vim-svelte'
+
+# zen mode
+[[plugins]]
+repo = 'folke/zen-mode.nvim'
+
+# rust
+[[plugins]]
+repo = 'rust-lang/rust.vim'
+
+# editorconfig
+[[plugins]]
+repo = 'editorconfig/editorconfig-vim'
+
+# jsdoc
+[[plugins]]
+repo = 'heavenshell/vim-jsdoc'
+
