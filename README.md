@@ -1,8 +1,7 @@
 ## Hyprland dotfiles
 
-:::note info
-🚧 This repo is under development
-:::
+> [!NOTE]
+> 🚧 This repo is under development
 
 ## supported environment
 - OS: Arch Linux
