@@ -14,10 +14,11 @@
 - launcher: rofi
 - wm: hyprland
 - powerline: powerline-go
+
 ...and more
 
-## Installation
-```
+## installation
+```sh
 git clone https://github.com/fuwafuwa1121/dotfiles.git
 
 # install packages
